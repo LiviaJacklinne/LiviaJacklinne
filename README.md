@@ -1,10 +1,12 @@
 ### Hi! I'm Livia Jacklinne
 
+##
+
 ### About me: 
 
 - Made in South America 🇧🇷
 - Computer Engineer - [Inatel](https://inatel.br/home/) 🖥️
-- Learnig more about Mongo DB and JS 
+- Learnig more about MongoDB and JS 
 
 ---
 
@@ -22,6 +24,7 @@
 
 <div align="center" style="display: inline_block"><br>  
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node" title="Node" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" title="Jupyter" width="40" height="40">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" title="C++" width="40" height="40">
@@ -30,6 +33,8 @@
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" title="Vscode" width="40" height="40"/>   
+          
 </div>
 
 ---
