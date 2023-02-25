@@ -33,17 +33,14 @@
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" title="Vscode" width="40" height="40"/>   
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" title="Vscode" width="40" height="40"/>           
 </div>
 
 ---
-
 <p align="center">
- <img width="42%" src="https://github-readme-stats.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai"/>
- <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai"/>
+ <img width="42%" src="https://github-readme-stats.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+ <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&include_all_commits=true&count_private=true"/>
 </p>
-
 ---
 
 <div> 
