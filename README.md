@@ -6,7 +6,7 @@
 
 - Made in South America 🇧🇷
 - Computer Engineer - [Inatel](https://inatel.br/home/) 🖥️
-- Learnig more about MongoDB and JS 
+- Learnig more about MongoDB, CSS and HTML
 
 ---
 
