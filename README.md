@@ -36,12 +36,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" title="Vscode" width="40" height="40"/>           
 </div>
 
----
+
 <p align="center">
  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&include_all_commits=true&count_private=true"/>
 </p>
----
+
 
 <div> 
  <a href="https://www.linkedin.com/in/l%C3%ADvia-jacklinne-ramos-moreira-bb3014253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
