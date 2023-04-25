@@ -11,19 +11,18 @@
 ---
 
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/LiviaJacklinne?tab=repositories&sort=stargazers">    
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/LiviaJacklinne"/></a>
     <a href="https://github.com/LiviaJacklinne?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/LiviaJacklinne?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/LiviaJacklinne">    
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=LiviaJacklinne&style=for-the-badge"/></a>
-</p>
+</p> -->
 
 #### Languages and Tools:
 
-<div align="center" style="display: inline_block">
-    <br>  
+<div align="center" style="display: inline_block"> 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40">
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" title="Jupyter" width="40" height="40">
@@ -37,9 +36,9 @@
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" title="CSS" width="40" height="40"/>
 </div>
-
+<br>
  <p align="center" style="display: inline_block">
-    <img width=395 src="https://github-readme-stats.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai&count_private=true&include_all_commits=true"/> 
+    <img width=395 src="https://github-readme-stats.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai&count_private=false&include_all_commits=true"/> 
     <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&include_all_commits=true&count_private=false"/>
 </p>
 
