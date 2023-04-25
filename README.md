@@ -33,7 +33,9 @@
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" width="40" height="40">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" title="Vscode" width="40" height="40"/>           
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" title="Vscode" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" title="CSS" width="40" height="40"/>
 </div>
 
  <p align="center" style="display: inline_block">
