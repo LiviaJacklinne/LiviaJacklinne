@@ -37,8 +37,8 @@
 </div>
 
  <p align="center" style="display: inline_block">
-    <img align="center" width=525 src="https://github-readme-stats.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai&count_private=true&include_all_commits=true"/> 
-    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&include_all_commits=true&count_private=false"/>
+    <img width=425 src="https://github-readme-stats.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai&count_private=true&include_all_commits=true"/> 
+    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&include_all_commits=true&count_private=false"/>
 </p>
 
 <div> 
