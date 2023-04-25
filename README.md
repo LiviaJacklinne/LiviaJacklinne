@@ -39,6 +39,8 @@
     <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&include_all_commits=true&count_private=false"/>
 </p>
 
+---
+
 <div> 
     <a href="https://www.linkedin.com/in/l%C3%ADvia-jacklinne-ramos-moreira-bb3014253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/livia_jacklinne/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
