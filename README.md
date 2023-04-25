@@ -11,14 +11,11 @@
 ---
 
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
-<!-- <p align="center">
-    <a href="https://github.com/LiviaJacklinne?tab=repositories&sort=stargazers">    
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/LiviaJacklinne"/></a>
-    <a href="https://github.com/LiviaJacklinne?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/LiviaJacklinne?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/LiviaJacklinne">    
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=LiviaJacklinne&style=for-the-badge"/></a>
-</p> -->
+<p align="center">
+<!--     <a href="https://github.com/LiviaJacklinne?tab=repositories&sort=stargazers">    
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/LiviaJacklinne"/></a> -->
+    
+</p>
 
 #### Languages and Tools:
 
@@ -45,6 +42,8 @@
 <div> 
     <a href="https://www.linkedin.com/in/l%C3%ADvia-jacklinne-ramos-moreira-bb3014253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/livia_jacklinne/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-    <a href = "mailto:livia.jacklinne@gec.inatel.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit" target="_blank"></a>    
+    <a href = "mailto:livia.jacklinne@gec.inatel.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit" target="_blank"></a>
+    <a href="https://github.com/LiviaJacklinne?tab=followers"><img align="right" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/LiviaJacklinne?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/LiviaJacklinne"><img align="right" alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=LiviaJacklinne&style=for-the-badge"/></a>
 </div>
 
