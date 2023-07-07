@@ -32,6 +32,8 @@
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40">  
     <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" width="40" height="40"></a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/npm/mariadb@3.2.0/promise.min.js" alt="MariaDB" title="MariaDB" width="40" height="40">
+    <img src="https://www.vectorlogo.zone/logos/mint/mint-ar21.svg" alt="Mint" title="Mint" width="40" height="40">
 </div>
 <br>
  <p align="center" style="display: inline_block">
