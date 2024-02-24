@@ -6,7 +6,7 @@
 </h1>
 <br>
 
-> ### Olá, meu nome é Livia!
+### Olá, meu nome é Livia!
 > Sou estudante de Engenharia de Computação no [Inatel](https://inatel.br/home/), estou no 9º período da graduação. <br>
 > Atualmente sou estágiaria de Desenvolvimento, atuo como Full-Stack. <br>
 >📍Brasil - MG
@@ -15,15 +15,13 @@
 <!-- align="right" alt="followers" title="Follow me on Github" -->
 <div align="center">
     <a href="https://www.linkedin.com/in/l%C3%ADvia-jacklinne-ramos-moreira-bb3014253/" target="_blank">
-    <img src="https://img.shields.io/badge/Livia-%230A66C2?style=flat&logo=linkedin" height="21">&nbsp&nbsp</a>
-    <a href="mailto:livia.jacklinne@gec.inatel.br" target="_blank"><img src="https://img.shields.io/badge/Email-%230078D4?style=flat&logo=microsoftoutlook" height="21">&nbsp&nbsp</a>
-    <a href="" target="_blank"><img src="https://komarev.com/ghpvc/?username=LiviaJacklinne&style=for-the-badg&color=46c219" height="21">&nbsp&nbsp</a>
+    <img src="https://img.shields.io/badge/Livia-%230A66C2?style=flat&logo=linkedin" height="21"></a>
+    <a href="mailto:livia.jacklinne@gec.inatel.br" target="_blank"><img src="https://img.shields.io/badge/Email-%230078D4?style=flat&logo=microsoftoutlook" height="21"></a>
+    <a href="" target="_blank"><img src="https://komarev.com/ghpvc/?username=LiviaJacklinne&style=for-the-badg&color=46c219" height="21"></a>
 </div>
-<br>
-
-<hr>
 
 ### Minhas Skills:
+<br>
 <div align="center" style="display: inline_block"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="40" height="40"/>
@@ -44,8 +42,8 @@
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" title="BigQuery" width="40" height="40">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </div>
-<hr>
 <br>
+<hr>
  <p align="center" style="display: inline_block">
     <img width=395 src="https://github-readme-stats.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai&count_private=false&include_all_commits=true"/> 
     <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&include_all_commits=true&count_private=false"/>
