@@ -8,7 +8,7 @@
 
 ### Olá, meu nome é Livia!
 > Sou estudante de Engenharia de Computação no [Inatel](https://inatel.br/home/), estou no 10º período da graduação. <br>
-> Atualmente sou estágiaria de Desenvolvimentode Software, trabalho com BackEnd, Banco de Dados (SQL), SO Linux, um pouco de Cloud e Dcoker, e aventureira no FrontEnd. <br>
+> Atualmente sou estágiaria de Desenvolvimentode Software, trabalho com BackEnd, Banco de Dados (SQL), SO Linux, um pouco de Cloud e Docker, e aventureira no FrontEnd. <br>
 >📍Brasil - MG
 > <br><br>
 
