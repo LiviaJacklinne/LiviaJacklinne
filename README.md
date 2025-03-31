@@ -20,7 +20,7 @@ Gosto de aprender novas tecnologias e aprimorar minhas habilidades, buscando sem
     <a href="" target="_blank"><img src="https://komarev.com/ghpvc/?username=LiviaJacklinne&style=for-the-badg&color=46c219" height="21"></a>
 </div>
 
-### Tecnologias e Habilidades:
+### Tecnologias:
 <br>
 <div align="center" style="display: inline_block"> 
     </a>
