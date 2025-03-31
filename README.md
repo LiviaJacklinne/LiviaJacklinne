@@ -7,10 +7,10 @@
 <br>
 
 ### Olá, meu nome é Livia!
-> Sou estudante de Engenharia de Computação no [Inatel](https://inatel.br/home/), estou no 10º período da graduação. <br>
-> Atualmente sou estágiaria de Desenvolvimentode Software, trabalho com BackEnd, Banco de Dados (SQL), SO Linux, um pouco de Cloud e Docker, e aventureira no FrontEnd. <br>
->📍Brasil - MG
-> <br><br>
+Sou formada em Engenharia da Computação pelo [Inatel](https://inatel.br/home/), com foco em desenvolvimento back-end. Tenho experiência em SQL, desenvolvimento web com Java e Spring Boot, além de conhecimento em metodologias ágeis. <br>
+
+Gosto de aprender novas tecnologias e aprimorar minhas habilidades, buscando sempre soluções eficientes e bem estruturadas. Embora minha paixão seja o back-end, tenho conhecimento básico em front-end e gosto de me desafiar. <br>
+<br>
 
 <!-- align="right" alt="followers" title="Follow me on Github" -->
 <div align="center">
@@ -20,22 +20,23 @@
     <a href="" target="_blank"><img src="https://komarev.com/ghpvc/?username=LiviaJacklinne&style=for-the-badg&color=46c219" height="21"></a>
 </div>
 
-### Minhas Skills:
+### Tecnologias e Habilidades:
 <br>
 <div align="center" style="display: inline_block"> 
+    </a>
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="40" height="40">
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="40" height="40">
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="40" height="40"> -->
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" title="HTML" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" title="CSS" width="40" height="40"/>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" width="40" height="40">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40">
-    <img src="https://www.vectorlogo.zone/logos/mint/mint-ar21.svg" alt="Mint" title="Mint" width="50" height="40">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="40" height="40">
+    <!-- <img src="https://www.vectorlogo.zone/logos/mint/mint-ar21.svg" alt="Mint" title="Mint" width="50" height="40"> -->
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" title="MySQL" width="40" height="40"></a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" title="MariaDB" width="40" height="40">
