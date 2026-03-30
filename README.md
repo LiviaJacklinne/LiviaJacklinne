@@ -5,7 +5,7 @@
 <div>
 	<p>
     Sou Engenheira da Computação, formada no <a href="https://inatel.br/home/" target="_blank">Inatel</a> e atuo como desenvolvedora desde 2023. <br>
-    Apesar de meu conhecimento em Frontend, minha <strong>principal atuação é em Backend</strong>.
+    Apesar de minha <strong>principal atuação ser em Backend</strong>, tenho conhecimento em Front.
   </p>
 
   <h3>Experiências Corporativas</h3>
