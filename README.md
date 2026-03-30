@@ -1,19 +1,7 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="max-width: 60%;">
-		<h3 style="font-size: 36px; line-height: 1.2;">
-      Olá! Sou a Lívia,<br>
-      Desenvolvedora Backend
-    </h3>
-    <p style="color:#ff69b4; line-height: 0">Java | Spring Boot | SQL | AWS | DevOps </p>
-  </div>
-
-  <div style="margin-right: 100px">
-    <img src="foto-perfil.png" width="240px"/>
-  </div>
+<div style="margin-right: 100px">
+	<img src="banner.png" />
 </div>
-
 <hr>
-
 <div>
 	<p>
     Sou Engenheira da Computação, formada no <a href="https://inatel.br/home/" target="_blank">Inatel</a> e atuo como desenvolvedora desde 2023. <br>
@@ -91,8 +79,8 @@
 
 
 <hr>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai" />
-</p>
+	<p align="center">
+	  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai" />
+	  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&langs_count=6&hide=jupyter%20notebook" />
+	</p>
 <hr>
