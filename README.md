@@ -1,21 +1,65 @@
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com/?lines=Howdy!+👋&center=true&size=28">
-    </a>
-</h1>
-<br>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="max-width: 60%;">
+		<h3 style="font-size: 36px; line-height: 1.2;">
+      Olá! Sou a Lívia,<br>
+      Desenvolvedora Backend
+    </h3>
+    <p style="color:#ff69b4; line-height: 0">Java | Spring Boot | SQL | AWS | DevOps </p>
+  </div>
 
-### Olá, meu nome é Livia!
-Sou formada em Engenharia da Computação pelo [Inatel](https://inatel.br/home/), com foco em desenvolvimento back-end. Tenho experiência em SQL, desenvolvimento web com Java e Spring Boot, além de conhecimento em metodologias ágeis. <br>
+  <div style="margin-right: 100px">
+    <img src="foto-perfil.png" width="240px"/>
+  </div>
+</div>
 
-Gosto de aprender novas tecnologias e aprimorar minhas habilidades, buscando sempre soluções eficientes e bem estruturadas. Embora minha paixão seja o back-end, tenho conhecimento básico em front-end e gosto de me desafiar. <br>
-<br>
+<hr>
 
-<!-- align="right" alt="followers" title="Follow me on Github" -->
+<div>
+	<p>
+    Sou Engenheira da Computação, formada no <a href="https://inatel.br/home/" target="_blank">Inatel</a> e atuo como desenvolvedora desde 2023. <br>
+    Apesar de meu conhecimento em Frontend, minha <strong>principal atuação é em Backend</strong>.
+  </p>
+
+  <h3>Experiências Corporativas</h3>
+  <p>
+    Tenho experiência sólida no desenvolvimento de APIs, sistemas backend e Cloud. Incluindo boas práticas como 
+    <code>padrões de arquitetura (DDD, Clean Architecture, Domínio e MVC)</code>, 
+    <code>API RESTful</code>, 
+    <code>API Gateway</code>, 
+    <code>Autenticação</code>, 
+    <code>Spring Data/Cloud</code>, 
+    <code>Microsserviços</code>, 
+    <code>Versionamento (Git)</code>, 
+    <code>Docker</code>, 
+    <code>Deploy, Armazenamento e Monitoramento em Cloud</code>.
+  </p>
+  <p>
+    Além de sempre contribuir com a manutenção e evolução do sistema legado, gostaria de destacar dois projetos em que tive total autonomia:
+  </p>
+  
+  <p>
+    <strong>1)</strong> 
+    Desenvolvi um microsserviço responsável por replicar informações de um banco local, para o BigQuery, definindo estratégias de envio (batch vs streaming) e garantindo a disponibilidade dos dados para consumo em ferramentas como BI e Looker.
+  </p>
+
+  <p>
+    <strong>2)</strong>
+    Liderei a adaptação de um sistema brasileiro para o contexto de Portugal, considerando diferenças de linguagem e regras de negócio.
+  </p>
+
+  <h3>Projetos Destaques</h3>
+  <p>Fora do ambiente corporativo, me dedico à estudos auto-guiados, e destaco dois projetos:</p>
+  <ul>
+    <li><strong>UaiPedidos</strong>: Aplicação FullStack, com Angular, Spring Boot, Docker e Kubernetes → <a href="https://github.com/LiviaJacklinne/UaiPedidos" target="_blank">Repositório</a></li>
+    <li><strong>TechTaste</strong>: Microsserviços, com Service Discovery, API Gateway, Comunicação síncrona (Open Feign) e Config Server → <a href="https://github.com/LiviaJacklinne/alura-techtaste/tree/configServer" target="_blank">Repositório</a></li>
+  </ul>
+</div>
+
+<br><br>
+
 <div align="center">
-    <a href="https://www.linkedin.com/in/l%C3%ADvia-jacklinne-ramos-moreira-bb3014253/" target="_blank">
-    <img src="https://img.shields.io/badge/Livia-%230A66C2?style=flat&logo=linkedin" height="21"></a>
+    <a href="https://www.linkedin.com/in/l%C3%ADvia-jacklinne-bb3014253/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=flat&logo=linkedin" height="21"></a>
     <a href="mailto:livia.jacklinne@gec.inatel.br" target="_blank"><img src="https://img.shields.io/badge/Email-%230078D4?style=flat&logo=microsoftoutlook" height="21"></a>
     <a href="" target="_blank"><img src="https://komarev.com/ghpvc/?username=LiviaJacklinne&style=for-the-badg&color=46c219" height="21"></a>
 </div>
@@ -44,9 +88,11 @@ Gosto de aprender novas tecnologias e aprimorar minhas habilidades, buscando sem
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </div>
 <br>
+
+
 <hr>
- <p align="center" style="display: inline_block">
-    <img width=395 src="https://github-readme-stats.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai&count_private=false&include_all_commits=true"/> 
-    <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&include_all_commits=true&count_private=false"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai" />
 </p>
 <hr>
