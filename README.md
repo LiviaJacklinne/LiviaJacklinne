@@ -84,3 +84,7 @@
 	  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&langs_count=6&hide=jupyter%20notebook" />
 	</p>
 <hr>
+
+<p align="center">
+  <img src="https://github.com/LiviaJacklinne/LiviaJacklinne/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
