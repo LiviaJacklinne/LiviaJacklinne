@@ -89,8 +89,8 @@
 
 <hr>
 	<p align="center">
-	  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai" />
-	  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&langs_count=6&hide=jupyter%20notebook" />
+	  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LiviaJacklinne&show_icons=true&theme=monokai" />
+	  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LiviaJacklinne&layout=compact&theme=monokai&langs_count=6&hide=jupyter%20notebook" />
 	</p>
 <hr>
 
