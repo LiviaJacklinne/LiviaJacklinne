@@ -51,7 +51,7 @@
     <a href="https://liviajacklinne.vercel.app/home" target="_blank">
       <img src="https://img.shields.io/badge/Portf%C3%B3lio-72203E?style=flat&logo=vercel&logoColor=white" height="21">
     </a>
-    <a href="mailto:livia.jacklinne@gec.inatel.br" target="_blank"><img src="https://img.shields.io/badge/Email-%230078D4?style=flat&logo=microsoftoutlook" height="21"></a>
+    <a href="mailto:livia.jack02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%230078D4?style=flat&logo=gmail" height="21"></a>
     <a href="" target="_blank"><img src="https://komarev.com/ghpvc/?username=LiviaJacklinne&style=for-the-badg&color=46c219" height="21"></a>
 </div>
 
