@@ -3,43 +3,45 @@
 </div>
 <hr>
 <div>
+  <h3>Sobre mim</h3>
 	<p>
-    Sou Engenheira da Computação, formada no <a href="https://inatel.br/home/" target="_blank">Inatel</a> e atuo como desenvolvedora desde 2023. <br>
-    Apesar de minha <strong>principal atuação ser em Backend</strong>, tenho conhecimento em Front.
+    Sou Engenheira da Computação, formada pelo <a href="https://inatel.br/home/" target="_blank">Inatel</a> e atuo como desenvolvedora de software desde 2023 - com foco em <strong>Backend e DevOps</strong>, e conhecimentos em Front-End.
   </p>
-
-  <h3>Experiências Corporativas</h3>
   <p>
-    Tenho experiência sólida no desenvolvimento de APIs, sistemas backend e Cloud. Incluindo boas práticas como 
-    <code>padrões de arquitetura (DDD, Clean Architecture, Domínio e MVC)</code>, 
+    Tenho experiência sólida no desenvolvimento de APIs, sistemas distribuídos e soluções em Cloud, aplicando boas práticas como
+    <code>padrões de arquitetura (DDD, Clean Architecture e MVC)</code>, 
     <code>API RESTful</code>, 
     <code>API Gateway</code>, 
     <code>Autenticação</code>, 
     <code>Spring Data/Cloud</code>, 
-    <code>Microsserviços</code>, 
-    <code>Versionamento (Git)</code>, 
-    <code>Docker</code>, 
-    <code>Deploy, Armazenamento e Monitoramento em Cloud</code>.
+    <code>Microsserviços</code>,
+    <code>Docker</code>, e 
+    <code>monitoramento em nuvem</code>.
   </p>
   <p>
-    Além de sempre contribuir com a manutenção e evolução do sistema legado, gostaria de destacar dois projetos em que tive total autonomia:
+    Atualmente, atuo como freelancer conduzindo de forma independente pesquisa e testes práticos de arquitetura de hospedagem na AWS — com S3, CloudFront, Load Balancer e EC2 — sendo responsável por todo o processo de investigação técnica. A stack também envolve desenvolvimento mobile com Flutter.
+  </p>
+
+  <h3>Experiência Corporativa</h3>
+  <p>
+    Ao longo da minha trajetória, contribuí ativamente para a evolução e manutenção de sistemas legados, e assumi projetos estratégicos com total autonomia:
   </p>
   
   <p>
     <strong>1)</strong> 
-    Desenvolvi um microsserviço responsável por replicar informações de um banco local, para o BigQuery, definindo estratégias de envio (batch vs streaming) e garantindo a disponibilidade dos dados para consumo em ferramentas como BI e Looker.
+    Pipeline de dados para BigQuery: Projetei e desenvolvi um microsserviço de replicação de dados entre banco local e BigQuery, definindo estratégias de ingestão (batch vs. streaming) e garantindo alta disponibilidade dos dados para ferramentas de BI e Looker.
   </p>
 
   <p>
     <strong>2)</strong>
-    Liderei a adaptação de um sistema brasileiro para o contexto de Portugal, considerando diferenças de linguagem e regras de negócio.
+    Internacionalização de produto: Liderei a adaptação de um sistema do mercado brasileiro para Portugal, navegando com autonomia pelas diferenças de linguagem, regras de negócio e contexto regulatório.
   </p>
 
   <h3>Projetos Destaques</h3>
-  <p>Fora do ambiente corporativo, me dedico à estudos auto-guiados, e destaco dois projetos:</p>
+  <p>Fora do ambiente corporativo, invisto continuamente no meu desenvolvimento técnico por meio de projetos autorais:</p>
   <ul>
-    <li><strong>UaiPedidos</strong>: Aplicação FullStack, com Angular, Spring Boot, Docker e Kubernetes → <a href="https://github.com/LiviaJacklinne/UaiPedidos" target="_blank">Repositório</a></li>
-    <li><strong>TechTaste</strong>: Microsserviços, com Service Discovery, API Gateway, Comunicação síncrona (Open Feign) e Config Server → <a href="https://github.com/LiviaJacklinne/alura-techtaste/tree/configServer" target="_blank">Repositório</a></li>
+    <li><strong>UaiPedidos</strong>: Aplicação FullStack com Angular, Spring Boot, Docker e Kubernetes → <a href="https://github.com/LiviaJacklinne/UaiPedidos" target="_blank">Repositório</a></li>
+    <li><strong>TechTaste</strong>: Arquitetura de microsserviços com Service Discovery, API Gateway, Comunicação síncrona (Open Feign) e Config Server → <a href="https://github.com/LiviaJacklinne/alura-techtaste/tree/configServer" target="_blank">Repositório</a></li>
   </ul>
 </div>
 
