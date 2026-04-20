@@ -29,12 +29,12 @@
   
   <p>
     <strong>1)</strong> 
-    Pipeline de dados para BigQuery: Projetei e desenvolvi um microsserviço de replicação de dados entre banco local e BigQuery, definindo estratégias de ingestão (batch vs. streaming) e garantindo alta disponibilidade dos dados para ferramentas de BI e Looker.
+    <strong>Pipeline de dados para BigQuery:</strong> Projetei e desenvolvi um microsserviço de replicação de dados entre banco local e BigQuery, definindo estratégias de ingestão (batch vs. streaming) e garantindo alta disponibilidade dos dados para ferramentas de BI e Looker.
   </p>
 
   <p>
     <strong>2)</strong>
-    Internacionalização de produto: Liderei a adaptação de um sistema do mercado brasileiro para Portugal, navegando com autonomia pelas diferenças de linguagem, regras de negócio e contexto regulatório.
+    <strong>Internacionalização de produto:</strong> Liderei a adaptação de um sistema do mercado brasileiro para Portugal, navegando com autonomia pelas diferenças de linguagem, regras de negócio e contexto regulatório.
   </p>
 
   <h3>Projetos Destaques</h3>
@@ -45,7 +45,7 @@
   </ul>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/l%C3%ADvia-jacklinne-bb3014253/" target="_blank">
