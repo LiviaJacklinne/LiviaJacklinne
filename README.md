@@ -1,5 +1,5 @@
 <div style="margin-right: 100px">
-	<img src="banner.png" />
+	<img src="banner-v2.png" />
 </div>
 <hr>
 <div>
